@@ -1,3 +1,3 @@
-GET https://example.execute-api.eu-west-1.amazonaws.com/Prod/rest/one
+GET https://b4wiey66sb.execute-api.eu-west-1.amazonaws.com/Prod/rest/one
 
-GET https://example.execute-api.eu-west-1.amazonaws.com/Prod/rest/two
+GET https://b4wiey66sb.execute-api.eu-west-1.amazonaws.com/Prod/rest/two
